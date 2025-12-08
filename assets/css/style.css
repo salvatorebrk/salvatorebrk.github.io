@@ -1,5 +1,6 @@
 body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background-color: #4b0082; /* Color page */
 }
 
 h1, h2, h3 {
