@@ -5,7 +5,7 @@ title: "Home"
 
 <div style="text-align: center;">
   <img src="assets/img/img.png" alt="Profile Picture" style="width:160px;height:160px;border-radius:50%;object-fit:cover;border:4px solid #38bdf8;margin-bottom:1rem;">
-  <h1>Swhite hat hacker : HenriLagarderee </h1>
+  <h1>White hat hacker : HLagarderee </h1>
   <h2>Embedded Systems Engineer</h2>
   <p>Electronic Engineer specializing in automotive embedded systems, safety-critical firmware (ISO26262), and hardware-software integration.</p>
 </div>
