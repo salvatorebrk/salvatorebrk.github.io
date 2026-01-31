@@ -8,6 +8,9 @@ title: "Home"
   <h1>White hat hacker : HLagarderee </h1>
   <h2>Embedded Systems Engineer</h2>
   <p>Electronic Engineer specializing in automotive embedded systems, safety-critical firmware (ISO26262), and hardware-software integration.</p>
+  <p>
+  <a href="/projects/" style="display: inline-block; padding: 10px 20px; background-color: #14d928; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">📂 View My Projects</a>
+  </p>
 </div>
 
 ## Profile
