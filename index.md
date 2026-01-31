@@ -5,7 +5,7 @@ title: "Home"
 
 <div style="text-align: center;">
   <img src="assets/img/img.png" alt="Profile Picture" style="width:160px;height:160px;border-radius:50%;object-fit:cover;border:4px solid #38bdf8;margin-bottom:1rem;">
-  <h1>Salvatore Bruccoleri</h1>
+  <h1>Swhite hat hacker : HenriLagarderee </h1>
   <h2>Embedded Systems Engineer</h2>
   <p>Electronic Engineer specializing in automotive embedded systems, safety-critical firmware (ISO26262), and hardware-software integration.</p>
 </div>
@@ -21,41 +21,41 @@ Skilled in low-level programming (C, Assembly), PCB design, and debugging comple
 ## Work Experience
 
 ### **Senior Embedded Engineer - Automotive** | *Marelli*
-*Piedmont, Italy | 06/2023 – Present*
+*Piedmont, Italy*
 - **Bootloader Development:** Implementation of complex boot components and custom IC drivers compliant with AUTOSAR/Non-AUTOSAR architectures.
 - **Protocols:** Configuration of UDS and XCP services on CAN/CAN-FD.
 - **Integration:** Implemented data exchange interfaces between Application Software (ASW) and Bootloader.
 - **Tools:** Vector Suite configuration, Infineon MCAL/CDD configuration.
 
 ### **Senior Embedded Engineer - BSW Safety** | *Marelli*
-*Piedmont, Italy | 06/2021 – 05/2023*
+*Piedmont, Italy*
 - **Safety Compliance (ISO26262):** Developed firmware for safety-critical contexts (ASIL D) following the V-cycle.
 - **Microcontrollers:** Integration of Infineon SafeTlib on Tricore TC2XX and development of MicroIntegrity library for TC3XX (Aurix 2G).
 - **Development:** Created Complex Device Drivers (CDD) for external resolvers.
 - **Tools:** Trace32 Debugger, Polyspace (MisraC:2012), DaVinci Developer.
 
 ### **Senior Embedded Software Engineer** | *ICOM FRANCE (via Ausy)*
-*Toulouse, France | 11/2020 – 06/2021*
+*Toulouse, France*
 - **Secure Bootloader:** End-to-end implementation for Cortex M4, including encryption (AES-128) and signature verification.
 - **RTOS & Firmware:** Development on FreeRTOS (v8.0.1) using Atmel SAML21/G55 MCUs.
 - **Tooling:** Created Python scripts for firmware image handling, binary manipulation, and automated testing (RobotFramework).
 
 ### **Firmware Engineer** | *TE Connectivity (via Ausy)*
-*Toulouse, France | 07/2019 – 10/2020*
+*Toulouse, France*
 - **Driver Development:** Implemented C drivers for IS1240 in a daisy-chain Master/Slave architecture (Atmega2560).
 - **Validation:** Functional hardware testing using Python; developed I2C drivers for sensor acquisition (dsPIC33).
 
 ### **Embedded System Engineer** | *Airbus (via Ausy)*
-*Toulouse, France | 05/2019 – 06/2019*
+*Toulouse, France*
 - **Avionics:** C programming for sensor reading on edge computers; duplication of AFDX protocol stack (NXP T1040).
 
 ### **Hardware & Firmware Engineer** | *Italtractor ITM SpA*
-*Bologna, Italy | 09/2018 – 04/2019*
+*Bologna, Italy*
 - **IoT & Low Power:** Prototyping "Sensory Integration" systems for heavy machinery using Nordic nRF51 (Cortex-M0) and BLE 4.1.
 - **Sensor Integration:** Developed algorithms for temperature, wear, and vibration analysis.
 
 ### **IVVQ Engineer (Tramways & LRT)** | *Thales ITALIA*
-*Florence, Italy | 11/2017 – 08/2018*
+*Florence, Italy*
 - **Verification & Validation:** Defined test strategies for Tramway Management Systems (ITMS) and On-Board Units.
 - **Automation:** Wrote Python scripts for functional testing and interface validation (IDD).
 
@@ -63,8 +63,8 @@ Skilled in low-level programming (C, Assembly), PCB design, and debugging comple
 
 ## Education
 
-**Bachelor Degree in Electronic Engineering (L8)**  
-*University of Palermo, Italy | 2009 – 2015*
+**Bachelor Degree in Electronic Engineering**  
+*University of Palermo, Italy*
 
 ---
 
