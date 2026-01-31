@@ -1,7 +1,11 @@
+title: "Salvatore Bruccoleri - Embedded Systems Engineer"
+description: "Professional portfolio of an Electronic Engineer specializing in Embedded Systems, Firmware, and Automotive Safety."
+# theme: jekyll-theme-minimal  <-- RIMOSSO (commentato o cancellato)
+
 remote_theme: pages-themes/hacker@v0.2.0
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: "SalvatoreBrk - Embedded Systems Engineer"
-description: "Electronic Engineer specializing in Embedded Systems, Firmware, and Automotive Safety."
+- jekyll-remote-theme
+
 lang: en
-author: "SalvatoreBrk"
+author: "Salvatore Bruccoleri"
