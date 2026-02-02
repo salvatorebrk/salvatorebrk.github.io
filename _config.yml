@@ -1,11 +1,5 @@
 title: "Salvatore Bruccoleri - Embedded Systems Engineer"
 description: "Professional portfolio of an Electronic Engineer specializing in Embedded Systems, Firmware, and Automotive Safety."
-# theme: jekyll-theme-minimal  <-- RIMOSSO (commentato o cancellato)
-
-remote_theme: pages-themes/hacker@v0.2.0
-
-plugins:
-- jekyll-remote-theme
-
+theme: jekyll-theme-hacker
 lang: en
 author: "Salvatore Bruccoleri"

@@ -3,16 +3,6 @@ layout: default
 title: "Home"
 ---
 
-<div style="text-align: center;">
-  <img src="assets/img/img.png" alt="Profile Picture" style="width:160px;height:160px;border-radius:50%;object-fit:cover;border:4px solid #2e5b5d;margin-bottom:1rem;">
-  <h1>White hat hacker : HLagarderee </h1>
-  <h2>Embedded Systems Engineer</h2>
-  <p>Electronic Engineer specializing in automotive embedded systems, safety-critical firmware (ISO26262), and hardware-software integration.</p>
-  <p>
-  <a href="/projects/" style="display: inline-block; padding: 10px 20px; background-color: #075a10; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">📂 View My Projects</a>
-  </p>
-</div>
-
 ## Profile
 
 Experienced **Senior Embedded Engineer** with a strong background in the automotive and industrial sectors.  
