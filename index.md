@@ -18,7 +18,7 @@ title: "Home"
     </div>
     <div class="hero-side">
       <!-- Insert your real photo path here -->
-      <img src="assets/imgages/bullet.png" alt="Profile Photo" class="hero-photo">
+      <img src="assets/imgages/img.png" alt="Profile Photo" class="hero-photo">
     </div>
   </div>
 </div>
