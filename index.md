@@ -95,6 +95,6 @@ Realization of a driver for vector control of BLDC motors.
 
 I am available for new professional challenges and technical collaborations.
 
-*   **Email:** [your.email@example.com](mailto:your.email@example.com)
-*   **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-*   **GitHub:** [github.com/your-username](https://github.com/your-username)
+*   **Email:** [salvatorebrk@gmail.com](salvatorebrk@gmail.com)
+*   **LinkedIn:** [in/salvatore-bruccoleri/](https://www.linkedin.com/in/salvatore-bruccoleri/)
+*   **GitHub:** [https://github.com/salvatorebrk](https://github.com/salvatorebrk)
