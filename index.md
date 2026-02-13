@@ -1,123 +1,100 @@
 ---
 layout: default
+title: "Home"
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+<div class="hero">
+  <div class="hero-inner">
+    <div class="hero-text">
+      <p class="hero-kicker">Electronic Engineer</p>
+      <h1>Hardware Design & Embedded Systems</h1>
+      <p class="hero-lead">
+        Engineer specialized in firmware development, electronic board design, and hardware-software integration on embedded Linux platforms.
+      </p>
+      <div class="hero-actions">
+        <a class="btn-primary" href="#contact">Contact Me</a>
+        <a class="btn-ghost" href="#projects">View Projects</a>
+      </div>
+    </div>
+    <div class="hero-side">
+      <!-- Insert your real photo path here -->
+      <img src="assets/imgages/bullet.png" alt="Profile Photo" class="hero-photo">
+    </div>
+  </div>
+</div>
 
-[Link to another page](./another-page.html).
+## Professional Profile
 
-There should be whitespace between paragraphs.
+Engineer with a solid background in electronic design and embedded systems development. My professional path focuses on the entire product lifecycle: from defining hardware specifications to firmware coding, up to instrumental debugging and final validation.
+I have worked in multidisciplinary teams, managing the integration between analog components, digital logic, and low-level software, with a strong focus on EMC compliance and system reliability.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## Technical Skills
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Embedded Systems & Firmware
+*   **C** and **C++** programming for microcontrollers (ARM Cortex-M, ESP32, AVR).
+*   **Embedded Linux** development (kernel configuration, device drivers, Yocto/Buildroot).
+*   Communication protocols: I2C, SPI, UART, CAN bus, Modbus, Ethernet.
 
-## Header 2
+### Hardware Design
+*   Schematic design and **PCB** layout (Altium Designer, KiCad).
+*   Analog electronics (signal conditioning) and digital design.
+*   Signal integrity management and low-power design.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Instrumentation & Debugging
+*   Advanced use of oscilloscopes, spectrum analyzers, logic analyzers.
+*   Hardware/software debugging techniques and complex system troubleshooting.
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Work Experience
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### **Embedded Electronics Engineer** | Industrial Sector Company
+In this role, I focus on the development and maintenance of firmware for industrial control systems.
+*   Designed firmware architecture for new control boards.
+*   Implemented drivers for proprietary peripherals and sensors.
+*   Optimized code for critical real-time systems.
+*   Collaborated with the hardware team on layout reviews and EMC issue resolution.
 
-#### Header 4
+### **R&D Engineer** | Automotive Sector Company
+Research and development activities focused on sensors and electronic control units (ECUs).
+*   Developed prototypes for vehicular monitoring systems.
+*   Integrated wireless communication modules onto existing platforms.
+*   Performed functional tests and stress tests in climatic chambers.
+*   Authored technical documentation and validation reports.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+## Education
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### **Master’s Degree in Electronic Engineering**
+*   Specialization in Electronic Systems and Information Technologies.
+*   Thesis focused on reconfigurable hardware architectures design.
 
-###### Header 6
+### **Bachelor’s Degree in Electronic Engineering**
+*   Fundamentals of electronics, automatic controls, and telecommunications.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
+## Key Projects {#projects}
 
-* * *
+### **IoT Data Acquisition System**
+Complete design of a low-power sensor node for environmental monitoring.
+*   **Technologies:** ESP32, MQTT, I2C sensors, custom PCB design.
+*   Developed firmware for power management (deep sleep) and secure data transmission to the cloud.
 
-### Here is an unordered list:
+### **Brushless Motor Controller**
+Realization of a driver for vector control of BLDC motors.
+*   **Technologies:** ARM Cortex-M4, PWM control, C++.
+*   Implemented FOC (Field Oriented Control) algorithm and serial diagnostic interface.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+---
 
-### And an ordered list:
+## Contact {#contact}
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+I am available for new professional challenges and technical collaborations.
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+*   **Email:** [your.email@example.com](mailto:your.email@example.com)
+*   **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+*   **GitHub:** [github.com/your-username](https://github.com/your-username)
