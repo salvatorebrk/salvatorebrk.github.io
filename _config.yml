@@ -3,3 +3,5 @@ description: Personal profile
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
+lang: en
+author: "Salvatore Bruccoleri"

@@ -11,16 +11,17 @@ title: "Home"
       <p class="hero-lead">
         Engineer specialized in firmware development, electronic board design, and hardware-software integration on embedded Linux platforms.
       </p>
-      <div class="hero-actions">
-        <a class="btn-primary" href="#contact">Contact Me</a>
-        <a class="btn-ghost" href="#projects">View Projects</a>
-      </div>
-    </div>
     <div class="hero-side">
       <!-- Insert your real photo path here -->
       <img src="img.png" alt="Profile Picture" style="width:160px;height:160px;border-radius:50%;object-fit:cover;border:4px solid #2e5b5d;margin-bottom:1rem;">
     </div>
   </div>
+      <div class="hero-actions" style="display: flex; gap: 0.75rem;">
+        <a class="btn-primary" href="#contact">Contact Me</a>
+        <a class="btn-ghost" href="#projects">View Projects</a>
+      </div>
+    </div>
+
 </div>
 
 ## Professional Profile
