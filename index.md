@@ -14,6 +14,7 @@ title: "Home"
     <div class="hero-side" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
       <!-- Insert your real photo path here -->
       <img src="img.png" alt="Profile Picture" style="width:160px;height:160px;border-radius:50%;object-fit:cover;border:4px solid #2e5b5d;margin-bottom:1rem;">
+      <a href="/projects/" style="display: inline-block; padding: 10px 20px; background-color: #075a10; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">📂 View My Projects</a>
     </div>
   </div>
       <div class="hero-actions" style="display: flex; gap: 0.75rem;">
